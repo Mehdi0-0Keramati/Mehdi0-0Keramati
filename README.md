@@ -30,6 +30,6 @@
 <p align="center">
 	<a href="https://github.com/Mehdi0-0Keramati"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://linkedin.com/in/Mehdi0-0Keramati/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://t.me/Mehdi0_0Keramati/"><img alt="telegram" width="10%" style="padding:5px" src="**https://img.icons8.com/clouds/100/000000/telegram.png"/></a>
+	<a href="https://t.me/Mehdi0_0Keramati/"><img alt="telegram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
 	<a href="https://instagram.com/Mehdi0_0Keramati/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>

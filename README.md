@@ -17,18 +17,16 @@
 
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=Mehdi0-0Keramati&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
-
-<p align=left>
   <img src="https://komarev.com/ghpvc/?username=Mehdi0-0Keramati" />
 </p>
+<!-- 
+<p align=left>
+  <img src="https://komarev.com/ghpvc/?username=Mehdi0-0Keramati" />
+</p> -->
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 
 
 ### Feel Free to Contact me.....

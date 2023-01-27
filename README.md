@@ -2,21 +2,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mehdi+Keramati;I'm+FrontEnd+Developer;Welcome+to+my+github+page!&center=true&font=roboto&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 <p align=center>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiryel&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mehdi0-0Keramati&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi0-0Keramati&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
 
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mehdi0-0Keramati&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 <p align=center>
-  <img src="https://badges.pufler.dev/visits/shiryel/shiryel?color=black&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=shiryel" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshiryel&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <img src="https://badges.pufler.dev/visits/Mehdi0-0Keramati/Mehdi0-0Keramati?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Mehdi0-0Keramati" />
 </p>
 
 

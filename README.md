@@ -1,25 +1,32 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mehdi+Keramati;I'm+FrontEnd+Developer;Welcome+to+my+github+page!&center=true&font=roboto&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mehdi+Keramati;I'm+FrontEnd+Developer;From+East+Persia&center=true&font=roboto&weight=800&duration=2000&pause=1000&height=100&width=500&color=FDC435&size=30">
 	<p align="center">
-	<a href="https://github.com/Mehdi0-0Keramati"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://linkedin.com/in/Mehdi0-0Keramati/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://t.me/Mehdi0_0Keramati/"><img alt="telegram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
-	<a href="https://instagram.com/Mehdi0_0Keramati/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://github.com/Mehdi0-0Keramati"><img alt="github" width="5%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://linkedin.com/in/Mehdi0-0Keramati/"><img alt="linkedin" width="5%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://t.me/Mehdi0_0Keramati/"><img alt="telegram" width="5%" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
+	<a href="https://instagram.com/Mehdi0_0Keramati/"><img alt="instagram" width="5%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 </h1>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
-### Languages and tools:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
+```javascript
+const MehdiKeramati = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Bootstrap, Tailwind, scss],
+  experieceYear: 2,
+  challenge: "wanna to be better than yesterday every day"
+}
+```
+ 
 ---
 
 ### 📊 GitHub Stats:
 
 <p align=center>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiryel&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mehdi0-0Keramati&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi0-0Keramati&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
 
 <p align=center>

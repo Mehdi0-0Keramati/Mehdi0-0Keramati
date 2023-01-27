@@ -3,22 +3,39 @@
 </h1>
 
 ## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi0-0Keramati&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+
+<p align=center>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shiryel&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiryel&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+</p>
+
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=shiryel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
+
+<p align=center>
+  <img src="https://badges.pufler.dev/visits/shiryel/shiryel?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=shiryel" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshiryel&count_bg=%23DDC3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+</p>
+
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehdi0-0Keramati&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi0-0Keramati&layout=compact&theme=gotham&custom_title=Statistics)  
-[![](https://visitcount.itsvg.in/api?id=Mehdi0-0Keramati&icon=0&color=0)](https://visitcount.itsvg.in)
----
+[![](https://visitcount.itsvg.in/api?id=Mehdi0-0Keramati&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
 
 ## Languages and tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
----
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mehdi0-0Keramati&theme=nord&no-frame=false&no-bg=true&margin-w=4)
----
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+
 
 ### Feel Free to Contact me.....
 <p align="center">

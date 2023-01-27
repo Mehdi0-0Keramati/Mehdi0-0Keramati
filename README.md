@@ -13,9 +13,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mehdi0-0Keramati&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
-<p align=left>
-  <img src="https://badges.pufler.dev/visits/Mehdi0-0Keramati/Mehdi0-0Keramati?color=black&logo=github" />
+<p align=center>
+  <img src="https://komarev.com/ghpvc/?username=Mehdi0-0Keramati" />
 </p>
+
 
 ---
 ### Languages and tools:

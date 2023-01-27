@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mehdi+Keramati;Welcome+to+my+github+account!&center=true&font=roboto&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mehdi+Keramati;I'm+FrontEnd+Developer;Welcome+to+my+github+page!&center=true&font=roboto&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
 # 💻 Tech Stack:
@@ -19,3 +19,8 @@
 [![](https://visitcount.itsvg.in/api?id=Mehdi0-0Keramati&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+</p>

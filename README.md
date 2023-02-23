@@ -1,10 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mehdi+Keramati;I'm+FrontEnd+Developer;From+North+West+of+Persia&center=true&font=roboto&weight=800&duration=2000&pause=1000&height=100&width=500&color=FDC435&size=30"/>
 	<p align="center">
-	<a target="_blank" href="https://github.com/Mehdi0-0Keramati"><img alt="github" width="5%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a target="_blank" href="https://www.linkedin.com/in/mehdi-keramati-503533267"><img alt="linkedin" width="5%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a target="_blank" href="https://t.me/Mehdi0_0Keramati/"><img alt="telegram" width="5%" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
-	<a target="_blank" href="https://instagram.com/Mehdi0_0Keramati/"><img alt="instagram" width="5%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a target="blank" href="https://github.com/Mehdi0-0Keramati"><img alt="github" width="5%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a target="blank" href="https://www.linkedin.com/in/mehdi-keramati-503533267"><img alt="linkedin" width="5%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a target="blank" href="https://t.me/Mehdi0_0Keramati/"><img alt="telegram" width="5%" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
+	<a target="blank" href="https://instagram.com/Mehdi0_0Keramati/"><img alt="instagram" width="5%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
         </p>
 </h1>
 

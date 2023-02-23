@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mehdi+Keramati;I'm+FrontEnd+Developer;From+North+West of+Persia&center=true&font=roboto&weight=800&duration=2000&pause=1000&height=100&width=500&color=FDC435&size=30"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mehdi+Keramati;I'm+FrontEnd+Developer;From+North+West+of+Persia&center=true&font=roboto&weight=800&duration=2000&pause=1000&height=100&width=500&color=FDC435&size=30"/>
 	<p align="center">
 	<a href="https://github.com/Mehdi0-0Keramati"><img alt="github" width="5%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://linkedin.com/in/Mehdi0-0Keramati/"><img alt="linkedin" width="5%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://t.me/Mehdi0_0Keramati/"><img alt="telegram" width="5%" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
 	<a href="https://instagram.com/Mehdi0_0Keramati/"><img alt="instagram" width="5%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-</p>
+        </p>
 </h1>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

@@ -15,7 +15,7 @@ const MehdiKeramati = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Bootstrap, Tailwind, scss],
-  experieceYear: 2,
+  experieceYear: 1,
   challenge: "wanna to be better than yesterday every day"
 }
 ```

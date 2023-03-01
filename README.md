@@ -14,7 +14,14 @@
 const MehdiKeramati = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Bootstrap, Tailwind, scss],
+  tools:[
+  frameworks:{
+     js : "React",
+     css : { "Bootstrap", "Tailwind" }
+  },
+  "scss"
+  ]
+  
   experieceYear: 1,
   challenge: "wanna to be better than yesterday every day"
 }

@@ -3,8 +3,8 @@
 	<p align="center">
 	<a target="_blank" href="https://github.com/Mehdi0-0Keramati"><img alt="github" width="5%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a target="_blank" href="https://www.linkedin.com/in/mehdi-keramati-503533267"><img alt="linkedin" width="5%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a target="_blank" href="https://t.me/Mehdi0_0Keramati/"><img alt="telegram" width="5%" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
-	<a target="_blank" href="https://instagram.com/Mehdi0_0Keramati/"><img alt="instagram" width="5%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a target="_blank" href="https://t.me/blue_0wl"><img alt="telegram" width="5%" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
+	<a target="_blank" href="https://instagram.com/genius0wl/"><img alt="instagram" width="5%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
         </p>
 </h1>
 

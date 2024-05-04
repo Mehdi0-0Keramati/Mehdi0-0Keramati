@@ -13,7 +13,7 @@
 ```javascript
 const MehdiKeramati = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
+  code: [Typescript, Javascript, HTML, CSS],
   tools:[
   frameworks:{
      js : "React",
@@ -22,8 +22,8 @@ const MehdiKeramati = {
   "scss"
   ]
   
-  experieceYear: 1,
-  challenge: "wanna to be better than yesterday every day"
+  experience year: 2.5,
+  challenge: "wanna be better than yesterday every day"
 }
 ```
  
